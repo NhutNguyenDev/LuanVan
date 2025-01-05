@@ -1,0 +1,7 @@
+com\networklearning\userservice\JakartaRestConfiguration.class
+controller\userController.class
+dao\userDAO.class
+util\DBConnection.class
+com\networklearning\userservice\resources\JakartaEE10Resource.class
+model\User.class
+service\userService.class

@@ -1,0 +1,3 @@
+Authentication\LoginServlet.class
+com\networklearning\server\resources\JakartaEE10Resource.class
+com\networklearning\server\JakartaRestConfiguration.class
